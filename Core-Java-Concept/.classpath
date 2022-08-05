@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="api-gateway/.mvn/wrapper"/>
+	<classpathentry kind="src" path="api-gateway/src/main/java"/>
+	<classpathentry kind="src" path="api-gateway/src/test/java"/>
+	<classpathentry kind="src" path="bank-application/.mvn/wrapper"/>
+	<classpathentry kind="src" path="bank-application/src/main/java"/>
+	<classpathentry kind="src" path="bank-application/src/test/java"/>
+	<classpathentry kind="src" path="bank-application/target/generated-sources/annotations"/>
+	<classpathentry kind="src" path="BinaryTrees/src"/>
+	<classpathentry kind="src" path="Core-Java-Concept/src"/>
+	<classpathentry kind="src" path="Core-Java/src"/>
+	<classpathentry kind="src" path="eureka-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="eureka-server/src/main/java"/>
+	<classpathentry kind="src" path="eureka-server/src/test/java"/>
+	<classpathentry kind="src" path="Person/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Person/src/main/java"/>
+	<classpathentry kind="src" path="Person/src/test/java"/>
+	<classpathentry kind="src" path="security-inmemory-auth/.mvn/wrapper"/>
+	<classpathentry kind="src" path="security-inmemory-auth/src/main/java"/>
+	<classpathentry kind="src" path="security-inmemory-auth/src/test/java"/>
+	<classpathentry kind="src" path="security-usedetails-auth/.mvn/wrapper"/>
+	<classpathentry kind="src" path="security-usedetails-auth/src/main/java"/>
+	<classpathentry kind="src" path="security-usedetails-auth/src/test/java"/>
+	<classpathentry kind="src" path="Servlet-POC-Producer/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Servlet-POC-Producer/src/main/java"/>
+	<classpathentry kind="src" path="Servlet-POC-Producer/src/test/java"/>
+	<classpathentry kind="src" path="Servlet-POC/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Servlet-POC/src/main/java"/>
+	<classpathentry kind="src" path="Servlet-POC/src/test/java"/>
+	<classpathentry kind="output" path="BinaryTrees/bin"/>
+</classpath>

@@ -1,9 +1,9 @@
-package ArraysSort;
+package Arrays;
 
 import java.util.Arrays;
 import java.util.Optional;
 
-public class chkspl {
+public class CheckDuplicatesInArray {
 	public static void main(String[] args) {
 		int[] nums = { 2, 14, 18, 22, 22 };
 		String x = 1+"";
