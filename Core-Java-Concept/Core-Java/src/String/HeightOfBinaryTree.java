@@ -16,12 +16,7 @@ public class HeightOfBinaryTree {
 		}
 		int left = findHeight(root.left);
 		int right = findHeight(root.right);
-		if (left > right) {
-			h = left + 1;
-		} else {
-			h = right + 1;
-		}
-		return h;
+		return h=left > right ? left+1: right+1;
 	}
 
 }
